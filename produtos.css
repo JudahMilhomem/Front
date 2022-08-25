@@ -1,0 +1,32 @@
+header {
+    background: #BBBBBB;
+    padding: 20px;
+}
+
+.caixa {
+    position: relative;
+    /* Como a tag nav recebeu um posicionamento absoluto, pra que ela continue dentro da caixa, 
+    essa também precisa receber um posicionamento pra "saltar pra frente", nesse caso, relative */
+    width: 940px;
+    margin: auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px; /* a imagem tem 240px */
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    /* colocar esses parâmetros em nav li não funciona */
+    text-transform: uppercase; 
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
