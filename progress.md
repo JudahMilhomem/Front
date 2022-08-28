@@ -9,3 +9,9 @@ Resumo:
 - Adição do Rodapé do site.
 * Li um artigo sobre unidades de medida no CSS.
 feito em: 26/08/22.
+
+# HTML e CSS - III > IV:
+Parte 3 finalizada, Parte 4 iniciada.
+- Formulários;
+- Tabela.
+Aplicação finalizada.
