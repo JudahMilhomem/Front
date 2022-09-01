@@ -15,3 +15,7 @@ Parte 3 finalizada, Parte 4 iniciada.
 - Formulários;
 - Tabela.
 Aplicação finalizada.
+
+# Atualização "de encerramento":
+Com a Aplicação finalizada, as últimas modificações foram para melhorar o CSS, além de reformular por completo a página inicial, trabalhando no visual e na semântica 
+do código. Há um curso inteiro dedicado a isso e as aulas já foram assistidas, só faltam as alterações finais, relativas à responsividade em aparelhos Mobile.
